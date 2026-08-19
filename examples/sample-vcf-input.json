@@ -1,0 +1,7 @@
+{
+  "genome_build": "GRCh38",
+  "lab_id": "LABX",
+  "patient_id": "P001",
+  "sample_id": "S001",
+  "vcf_content": "##fileformat=VCFv4.2\n##INFO=<ID=AF,Number=A,Type=Float>\n#CHROM\tPOS\tID\tREF\tALT\tQUAL\tFILTER\tINFO\nchr1\t69511\trs121909193\tA\tG\t50\tPASS\tAF=0.5\nchr1\t69270\trs121908190\tA\tG\t50\tPASS\tAF=0.4\nchr1\t977728\trs121908198\tG\tA\t50\tPASS\tAF=0.3"
+}
